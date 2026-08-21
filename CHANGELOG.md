@@ -7,6 +7,13 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-08-21
+
+### Fixed
+
+- Added Unity `.meta` files required when the package is installed from Git as
+  an immutable package.
+
 ## [0.1.0] - 2026-08-21
 
 ### Added

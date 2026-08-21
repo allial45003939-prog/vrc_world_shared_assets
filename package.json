@@ -1,6 +1,6 @@
 {
   "name": "com.allial45003939.vrc-world-shared-assets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "VRC World Shared Assets",
   "description": "Shared assets for Unity and VRChat world development.",
   "unity": "2022.3",
