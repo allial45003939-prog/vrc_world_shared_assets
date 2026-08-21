@@ -1,0 +1,19 @@
+{
+  "name": "com.allial45003939.vrc-world-shared-assets",
+  "version": "0.1.0",
+  "displayName": "VRC World Shared Assets",
+  "description": "Shared assets for Unity and VRChat world development.",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "author": {
+    "name": "allial45003939-prog",
+    "url": "https://github.com/allial45003939-prog"
+  },
+  "keywords": [
+    "vrchat",
+    "world",
+    "assets"
+  ],
+  "changelogUrl": "https://github.com/allial45003939-prog/vrc_world_shared_assets/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/allial45003939-prog/vrc_world_shared_assets/blob/main/LICENSE.md"
+}
