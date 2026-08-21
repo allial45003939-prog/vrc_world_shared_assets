@@ -1,0 +1,2 @@
+# VRC World Shared Assets
+
